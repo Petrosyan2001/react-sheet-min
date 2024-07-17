@@ -4,6 +4,10 @@
   "name": "react-sheet-min",
   "description": "Flexible bottom sheet component for your React apps",
   "author": "Petros Petrosyan",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Petrosyan2001/react-sheet-min.git"
+  },
   "keywords": [
     "react",
     "modal",
@@ -93,5 +97,9 @@
     "semi": true,
     "singleQuote": true,
     "trailingComma": "es5"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Petrosyan2001/react-sheet-min/issues"
+  },
+  "homepage": "https://github.com/Petrosyan2001/react-sheet-min#readme"
 }
